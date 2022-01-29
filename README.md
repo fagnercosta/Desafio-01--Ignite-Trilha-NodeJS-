@@ -5,6 +5,6 @@
 
 <h1 align="center">
 
-Ignite Rocketseat - Desafios [Trilha Node]
+Ignite Rocketseat - Desafio [01] Conceitos de Node.js
 
 </h1>
